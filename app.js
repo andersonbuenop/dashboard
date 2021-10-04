@@ -91,7 +91,7 @@ var config = {
         plugins: {
             datasource: {
                 type: 'sheet',
-                url: 'dados.xlsx',
+                url: './dados.xlsx',
                 rowMapping: 'index',
                 datasetLabels: 'Sheet1!A1:C1',
                 indexLabels: 'Sheet1!A2:A5',
