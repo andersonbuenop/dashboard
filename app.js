@@ -19,7 +19,7 @@ var config = {
     options: {
         title: {
             display: true,
-            text: 'Tratativa Semanal GAP Altiris',
+            text: 'Tratativa Semanal GAP',
             fontSize: 20
         },
         legend: {
